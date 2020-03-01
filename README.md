@@ -56,3 +56,8 @@ From [EventStorming website](https://www.eventstorming.com/):
 ## Example
 
 ![Example of Event Storming](event_storming.jpg)
+
+## Materials
+
+[Official website](https://www.eventstorming.com/#resources)  
+[YouTube talk about EventStorming](https://www.youtube.com/watch?v=1i6QYvYhlYQ)
