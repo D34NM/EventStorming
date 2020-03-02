@@ -27,4 +27,5 @@ From [EventStorming website](https://www.eventstorming.com/):
 ## Materials
 
 [Official website](https://www.eventstorming.com/#resources)  
+[Blog post from Alberto Brandolini (The inventor of Event Storming)](https://ziobrando.blogspot.com/2013/11/introducing-event-storming.html)  
 [YouTube talk about EventStorming](https://www.youtube.com/watch?v=1i6QYvYhlYQ)
