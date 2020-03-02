@@ -1,8 +1,7 @@
-# Event Storming
+![Event Storming](resources/header.jpg)
 
 From [EventStorming website](https://www.eventstorming.com/):  
 >EventStorming is a flexible workshop format for collaborative exploration of complex business domains. It comes in different flavours, that can be used in different scenarios. The adaptive nature of EventStorming allows sophisticated cross-discipline conversation between stakeholders with different backgrounds, delivering a new type of collaboration beyond silo and specialisation boundaries.
-
 
 ## Resources
 
@@ -55,7 +54,7 @@ From [EventStorming website](https://www.eventstorming.com/):
 
 ## Example
 
-![Example of Event Storming](event_storming.jpg)
+![Example of Event Storming](resources/event_storming.jpg)
 
 ## Materials
 
