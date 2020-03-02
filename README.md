@@ -13,12 +13,12 @@ From [EventStorming website](https://www.eventstorming.com/):
 6. Stackeholders
 7. Intorduction about the problem the scoping session needs to solve
 
-## Terminology & guidelines
+## Terminology & conventions
 
-![Domain and definitons](resources/event_storming_terminology_one.jpg)
-![Concerns and policies](resources/event_storming_terminology_two.jpg)
-![Read model and commands](resources/event_storming_terminology_three.jpg)
-![External systems and aggregates](resources/event_storming_terminology_four.jpg)
+![One](resources/event_storming_one.jpg)
+![Two](resources/event_storming_two.jpg)
+![Three](resources/event_storming_three.jpg)
+![Four](resources/event_storming_four.jpg)
 
 ## Example
 
